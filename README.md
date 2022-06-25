@@ -10,15 +10,16 @@
 </div>
 
   ##
- 
-
+     
 <div style="display: inline_block">
-    <img align="center" alt="QuenedeAbreu-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/39633455/175752918-850984d8-7fd2-495c-84d0-39f8612cab0b.svg">
+  
+  <img align="center" alt="QuenedeAbreu-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/39633455/175752918-850984d8-7fd2-495c-84d0-39f8612cab0b.svg">
  <img align="center" alt="QuenedeAbreu-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/39633455/175753064-c6d4e0b3-8148-4afb-8e82-7ed22365117d.svg">
  <img align="center" alt="QuenedeAbreu-JS" height="30" width="40" src="https://user-images.githubusercontent.com/39633455/175753251-35cf1280-3860-413d-9eec-ac50be8ed3be.svg">
  <img align="center" alt="QuenedeAbreu-JS" height="30" width="40" src="https://user-images.githubusercontent.com/39633455/175753316-d0cbe131-3b3c-4adf-a620-28a373d67669.svg">
  <img align="center" alt="QuenedeAbreu-React" height="30" width="40" src="https://user-images.githubusercontent.com/39633455/175752827-e636dee3-583f-4379-aec5-2e3135f831bf.svg">
   <img align="center" alt="QuenedeAbreu-NodeJs" height="30" width="40" src="https://user-images.githubusercontent.com/39633455/175753401-4528c2bf-4120-4314-a263-3e5bd86d0919.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp">
 </div>
   
   ##
